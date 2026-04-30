@@ -2,4 +2,7 @@
   <Target name="My Computer">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
   </Target>
+  <Target name="NI-cRIO-9045-01CEEDF1">
+    <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+  </Target>
 </Configuration>
